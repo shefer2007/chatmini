@@ -1,0 +1,21 @@
+.container {
+    background-color: aqua;
+    height: 70px;
+    min-width: 40lvh;
+    display: flex;
+    justify-content: center;
+}
+.navbar {
+    width: 700px;
+    height: 100%;
+    display: flex;
+    
+    flex-wrap: wrap;
+    /* выстраиваются в несколько строк */
+
+    justify-content: space-evenly;
+    /* расстояние между любыми двумя соседними элементами, а также перед первым и после последнего, было одинаковым. */
+
+    align-items: center;
+    
+}

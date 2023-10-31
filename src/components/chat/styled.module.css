@@ -1,0 +1,35 @@
+.container {
+    background-color: rgb(100, 18, 177);
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 20px;
+    border-radius: 20px;
+    color: #3ddeb8;
+}
+.chatBlock {
+    background-color: bisque;
+    min-width: 40lvh;
+    min-height: 100lvh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    min-width: 90lvh;
+    border: 5px solid black;
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 2% 30% 50% 70%;
+    color: #083f32;
+    
+    
+   
+}
+
+.comm {
+    background-color: chartreuse;
+    border-radius: 5px;
+    color: #1c6353;
+}

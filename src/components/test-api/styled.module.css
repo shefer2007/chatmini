@@ -1,0 +1,34 @@
+.container {
+    background-color: rgb(100, 18, 177);
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-width: 90lvh;
+    border-radius: 10% 20% 30% 40%;
+    color: #d215dc;
+    
+}
+
+.element {
+    border: 5px solid rgb(131, 9, 57);
+    color: beige;
+    width: 110%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2px 30px 2px 15px;
+    color: #3ddeb8;
+
+    
+}
+.loading {
+    font-size: 40px;
+    color: #72b3b0;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}

@@ -1,0 +1,23 @@
+.container {
+    background-color: rgb(100, 18, 177);
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-width: 90lvh;
+    border-radius: 10% 30% 50% 70%;
+    color: #c96fab;
+    font-size: 20px;
+}
+
+.user {
+    font-size: 40px;
+    color: #72b3b0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
